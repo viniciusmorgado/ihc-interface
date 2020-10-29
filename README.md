@@ -1,6 +1,6 @@
-# IHC - Interface Prototype
+# YoungCare Project - IHC - Interface Prototype
 
-This repository contains the biannual work from the group of students at FATEC - Faculdade de Tecnologia de São Paulo of the class Human computer interaction, the proposal of this work is design a user interface follow the steps Wireframe - Mockup - Prototype applying Nilsen Heuristics.
+This repository contains the biannual work from the group of students at FATEC - Faculdade de Tecnologia de São Paulo of the class Human computer interaction, the proposal of this work is design a user interface follow the steps Wireframe - Mockup - Prototype applying Nilsen Heuristics, the project consists of a surveillance system for young children.
 
 ## Build With
 
