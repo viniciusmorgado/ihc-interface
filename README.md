@@ -1,12 +1,17 @@
 # YoungCare Project - IHC - Interface Prototype
 
-This repository contains the biannual work from the group of students at FATEC - Faculdade de Tecnologia de São Paulo of the class Human computer interaction, the proposal of this work is design a user interface follow the steps Wireframe - Mockup - Prototype applying Nilsen Heuristics, the project consists of a surveillance system for young children.
+Semi-annual work by the FATEC Americana of the IHC (Human Computer Interaction) class taught by professor Renato Kraide Soffner, the purpose of this work is to use the Adobe XD UI design tool to prototype the interface of a residential surveillance software so that parents can monitoring children, this project is divided into three items: the interface wireframe, mockup and the high-fidelity prototype.
+
+## Screenshots
+
+<img src="https://github.com/viniciusmorgado/ihc-interface/blob/main/Design/Menu%20Expandido%20Fundos%20%E2%80%93%205.png"></img>
+
+<img src="https://github.com/viniciusmorgado/ihc-interface/blob/main/Design/Menu%20Compacto%20%E2%80%93%2011.png"></img>
 
 ## Build With
 
-- Adobe XD - Design Mockup and wireframe.
-- Windows Forms .NET Core - Functional Prototype.
-- Fluent Design System - Microsoft Design system for Windows devices.
+* [Adobe XD](https://www.adobe.com/products/xd.html) - UI/UX design and collaboration tool from Adobe.
+* [Fluent Design System](https://www.microsoft.com/design/fluent/#/) - Microsoft Design system for Windows devices.
 
 ## Folder Structure
 - Design
@@ -15,5 +20,8 @@ This repository contains the biannual work from the group of students at FATEC -
   - Images of project
 - Docs
   - Extra documents from the project.
+  
+ ## Conclusion
+ 
+ Project delivered on deadline on December 2, 2020 obtaining maximum score.
 
-Observation: Some parts of this projects is underdevelopment.
