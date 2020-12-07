@@ -27,3 +27,4 @@ Semi-annual work by the FATEC Americana of the IHC (Human Computer Interaction) 
 
 <img src="https://github.com/viniciusmorgado/ihc-interface/blob/main/Images/FinalScreenshot2020-12-07%20001423.png"></img>
 
+This repository will be archived due to the end of the semester and completion of college activities, no contribution will be accepted anymore.
