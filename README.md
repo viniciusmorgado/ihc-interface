@@ -25,3 +25,5 @@ Semi-annual work by the FATEC Americana of the IHC (Human Computer Interaction) 
  
  Project delivered on deadline on December 2, 2020 obtaining maximum score.
 
+<img src="https://github.com/viniciusmorgado/ihc-interface/blob/main/Images/FinalScreenshot2020-12-07%20001423.png"></img>
+
