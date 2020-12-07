@@ -16,4 +16,4 @@ This repository contains the biannual work from the group of students at FATEC -
 - Docs
   - Extra documents from the project.
 
-Observation: Some parts of this projects is underdevelopment.
+
